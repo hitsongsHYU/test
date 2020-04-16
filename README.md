@@ -8,7 +8,8 @@ hi hello
 <<<<<<< HEAD
 last change
 
-gging ggang!!!
+gging ggang!!!!
+
 =======
 last change 
 
